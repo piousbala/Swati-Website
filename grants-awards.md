@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Grants & Awards
+permalink: /grants-awards/
 ---
 
 # Grants & Awards
