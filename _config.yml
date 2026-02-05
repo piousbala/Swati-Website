@@ -1,0 +1,9 @@
+title: "Swati Ghosh, PhD"
+description: "Translational liver disease scientist"
+url: ""
+markdown: kramdown
+kramdown:
+  input: GFM
+plugins: []
+exclude:
+  - README.md
