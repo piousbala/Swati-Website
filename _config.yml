@@ -1,6 +1,9 @@
 title: "Swati Ghosh, PhD"
 description: "Translational liver disease scientist"
-url: ""
+
+url: "https://piousbala.github.io"
+baseurl: "/Swati-Website"
+
 markdown: kramdown
 kramdown:
   input: GFM
