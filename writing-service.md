@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Writing & Service
-permalink: /writing-service/
+title: Contact
+permalink: /contact/
 ---
 
 # Writing & Service
