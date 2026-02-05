@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Translational Impact
+permalink: /impact/
 ---
 
 # Translational Impact
